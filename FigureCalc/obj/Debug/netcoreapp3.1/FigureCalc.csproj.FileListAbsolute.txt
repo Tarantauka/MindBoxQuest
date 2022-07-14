@@ -1,0 +1,10 @@
+C:\Repos\MindBoxQuest\FigureCalc\bin\Debug\netcoreapp3.1\FigureCalc.deps.json
+C:\Repos\MindBoxQuest\FigureCalc\bin\Debug\netcoreapp3.1\FigureCalc.dll
+C:\Repos\MindBoxQuest\FigureCalc\bin\Debug\netcoreapp3.1\FigureCalc.pdb
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.csproj.AssemblyReference.cache
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.AssemblyInfoInputs.cache
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.AssemblyInfo.cs
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.csproj.CoreCompileInputs.cache
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.dll
+C:\Repos\MindBoxQuest\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.pdb

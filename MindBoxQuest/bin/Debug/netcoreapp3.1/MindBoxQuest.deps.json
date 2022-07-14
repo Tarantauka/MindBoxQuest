@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MindBoxQuest/1.0.0": {
+        "dependencies": {
+          "FigureCalc": "1.0.0"
+        },
+        "runtime": {
+          "MindBoxQuest.dll": {}
+        }
+      },
+      "FigureCalc/1.0.0": {
+        "runtime": {
+          "FigureCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MindBoxQuest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

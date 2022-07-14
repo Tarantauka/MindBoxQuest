@@ -1,0 +1,17 @@
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\MindBoxQuest.exe
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\MindBoxQuest.deps.json
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\MindBoxQuest.runtimeconfig.json
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\MindBoxQuest.runtimeconfig.dev.json
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\MindBoxQuest.dll
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\MindBoxQuest.pdb
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\FigureCalc.dll
+C:\Repos\MindBoxQuest\MindBoxQuest\bin\Debug\netcoreapp3.1\FigureCalc.pdb
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.csproj.AssemblyReference.cache
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.AssemblyInfoInputs.cache
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.AssemblyInfo.cs
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.csproj.CoreCompileInputs.cache
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.csproj.CopyComplete
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.dll
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.pdb
+C:\Repos\MindBoxQuest\MindBoxQuest\obj\Debug\netcoreapp3.1\MindBoxQuest.genruntimeconfig.cache
