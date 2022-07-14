@@ -12,7 +12,7 @@ namespace FigureCalc.Implementation
             return obj.CalculateArea();
         }
 
-        public bool Has90Angle(BaseTriangle obj)
+        public static bool Has90Angle(BaseTriangle obj)
         {
             return obj.Has90Angle();
         }
